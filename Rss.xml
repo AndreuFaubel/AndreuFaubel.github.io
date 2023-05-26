@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="0.91">
+<channel>
+<title>IES EL CAMINAS</title>
+<link>http://www.ieselcaminas.org</link>
+<description>Novedades web del IES EL CAMINAS</description>
+<language>es-es</language>
+<copyright/>
+<managingEditor>info@ieselcaminas.org</managingEditor>
+<webMaster>webmaster@ieselcaminas.org</webMaster>
+<pubDate>Mon, 19 Mar 12 09:00:00 GMT</pubDate>
+<image>
+<title>IES EL CAMINAS</title>
+<url>http://www.ieselcaminas.org/logotipo-caminas.png</url>
+<link>http://www.ieselcaminas.org </link>
+<width>80</width>
+<height>75</height>
+<description>Matrículas IES y Ciclos FProf</description>
+</image>
+<item>
+<title>Enseñanza Secundaria</title>
+<link>http://www.ieselcaminas.org/secundaria</link>
+<description>Las fechas de Matrícula en Secundaria...</description>
+</item>
+<item>
+<title>Formación Profesional</title>
+<link>http://www.ieselcaminas.org/formacionprofesional</link>
+<description>Las fechas de Matrícula en F.Profesional...</description>
+</item>
+</channel>
+</rss>

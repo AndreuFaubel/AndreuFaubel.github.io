@@ -1,0 +1,120 @@
+
+body {
+    background:black;
+    background-attachment: scroll;
+   }
+
+#tituS{
+    background-color: white;
+}
+
+.folo{
+       background-color: white;
+       margin-left: 210px;
+
+   }
+   head{
+       background-color: white;
+   }
+   h2{
+       color: white;
+       margin-left: 30px;
+   }
+   dl{
+       color: mediumvioletred;
+       margin-left: 30px;
+   }
+.ilp{
+    margin-left: 880px;
+    margin-top: 20px;
+}
+
+img.gorra{
+    height: 300px;
+    width: 300px;
+    margin-left: 90px;
+
+}
+img.camiseta {
+    height: 300px;
+    width: 300px;
+    margin-left: 45px;
+
+}
+img.sudadera{
+    height: 300px;
+    width: 300px;
+    margin-left: 45px;
+}
+img.manta{
+    height: 300px;
+    width: 300px;
+    margin-left: 45px;
+    
+}
+img.targeta{
+    height: 300px;
+    width: 300px;
+    margin-left: 45px;
+}
+
+li{
+    margin-bottom: 2px;
+    margin-left: 30px;
+
+    color: mediumvioletred;
+}
+
+
+#infu{
+    margin-left: 83px;
+}
+#formu{
+    margin-left: 620px;
+}
+#jimi{
+    margin-left: 620px;
+}
+
+
+
+
+   img.insta{
+    width: 50px;
+    height: 50px;
+    margin-right: 500px;
+    margin-left: 370px;
+  }
+  img.tuiter{
+    width: 58px;
+    height: 50px;
+    margin-right: 500px;
+  }
+  img.discord{
+
+        width: 55px;
+        height: 55px;
+      }
+      caption{
+        color: white;
+        margin-left: 200px;
+        float:right
+      }
+      th, td{
+        color: white;
+        margin-left:300px;
+
+      }
+      table{
+        margin-left: 800px;
+        margin-top: -200px;
+        
+      }
+
+      img.po{
+        margin-right: 5%;
+        margin-top: -10%;
+        width: 80px;
+        height: 80px;
+        float: right;
+      }

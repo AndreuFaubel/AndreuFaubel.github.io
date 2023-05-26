@@ -1,0 +1,59 @@
+
+body{
+
+    background-image: url("imagenes/f1.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    margin-left: 25%;
+    
+}
+.id{
+    align-items: center;
+}
+img.marca{
+    margin: center;
+}
+
+h3{
+    margin-left: 6%;
+}
+
+
+h1{
+    color: rgb(0, 0, 39);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 14px;
+    margin-bottom: 14px;
+
+}
+p{
+    margin-left: 8%;
+    margin-right: 35px;
+    margin-top: 20px;
+}
+cite{
+    margin-top: 20px;
+}
+#cajita{
+    background-color: white;
+    border: 4px;
+    border: solid;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+#contenedor{
+    background-color: rgba(255, 255, 255, 0.699);
+    border: 50px;
+    border: solid;
+    border-color: black;
+    margin-right: 28%;
+    margin-left: 28%;
+
+
+}
